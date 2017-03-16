@@ -17,7 +17,7 @@ Forked and cloned the repo.
 3. ~Install dependencies using `npm install`.  Run tests using `npm test`.~  
 Updated `exercises.js` and executed `npm test`. 
 
-4. ~Make the tests pass!~
+4. ~Make the tests pass!~  
 All tests ran successfully.
 
 More information about Lambda School is available at https://www.lambdaschool.com.
